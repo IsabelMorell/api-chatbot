@@ -15,8 +15,6 @@ SISTEMA = (
     "Nunca inventes valores. Responde en espanol y de forma breve."
 )
 
-OPENAI_MODEL = "gpt-4o-mini"
-
 
 def leer_argumentos(texto):
     """YA HECHO: convierte el texto JSON de la tool en dict ({} si no es JSON valido)."""
